@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1 -1 2 2"
+     width="1mm" height="1mm">
+  <polygon points="0.7,0 0.5,0.3 0.35,0.35 0.3,0.5 0,0.7 -0.3,0.5 -0.35,0.35 -0.5,0.3 -0.7,0 -0.5,-0.3 -0.35,-0.35 -0.3,-0.5 0,-0.7 0.3,-0.5 0.35,-0.35 0.5,-0.3"
+           fill="none" stroke="black" stroke-width="0.02"
+           data-anchor-center="(0,0)" />
+</svg>
